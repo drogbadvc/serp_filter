@@ -1,0 +1,6 @@
+fastapi
+crawlee[playwright]
+playwright
+flask
+uvicorn
+requests
